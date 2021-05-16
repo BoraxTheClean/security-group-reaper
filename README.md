@@ -1,4 +1,11 @@
-# Security Group Reaper (Proposed)
+# Security Group Shepherd
+
+
+Security Group Shepherd is a tool that enforces state across security groups. Security Group Shepherd monitors security groups in an AWS Account and enforce rules on **ingress rules** attached to those groups.
+
+This project is a work in progress.
+
+# Proposal
 
 Security groups can easily present a security risk. One open port to the internet can spell disaster.
 
